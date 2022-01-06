@@ -1,0 +1,33 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 65px;
+}
+.orange-color{
+    color:red;
+}
+section{
+  display: flex;  
+}
+.container{
+    width: 50%;
+    padding-left: 5%;
+}
+.container img{
+    width: 80%;
+}
+.hamim{
+    text-decoration: none;
+    background-image: linear-gradient(orange
+    ,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
